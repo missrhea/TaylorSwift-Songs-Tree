@@ -1,0 +1,25 @@
+body {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: 0;
+    overflow: hidden;
+    background-color: rgb(247, 243, 214);
+  }
+  
+  path {
+    fill: none;
+    stroke: rgb(227, 207, 192);
+  }
+  
+  text {
+    text-shadow:
+     -1px -1px 3px rgb(247, 243, 214),
+     -1px  1px 3px rgb(247, 243, 214),
+      1px -1px 3px rgb(247, 243, 214),
+      1px  1px 3px rgb(247, 243, 214);
+    pointer-events: none;
+    font-family: 'Playfair Display', serif;
+  }

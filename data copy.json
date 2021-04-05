@@ -1,0 +1,623 @@
+{
+    "data": {
+      "id": "Taylor Swift"
+    },
+    "children": [
+      {
+        "data": {
+          "id": "Albums"
+        },
+        "children": [
+            {
+                "data": {
+                  "id": "Evermore",
+                  "color":"green"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "Willow"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "Ivy"
+                    }
+                  },{
+                    "data": {
+                      "id": "Goldrush"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "Evermore"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "Willow"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "Ivy"
+                    }
+                  },{
+                    "data": {
+                      "id": "Goldrush"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "Evermore"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "id": "Folklore",
+                  "color":"brown"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "Cardigan"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "Betty"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "Seven"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "August"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "Cardigan"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "Betty"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "Seven"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "August"
+                    }
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "id": "Lover",
+                  "color":"pink"
+                },
+                "children": [
+                  {
+                    "data": {
+                      "id": "I Forgot That You Existed",
+                      "color":"pink"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "Cruel Summer",
+                      "color":"pink"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "Lover",
+                      "color":"pink"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "The Man",
+                      "color":"pink"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "The Archer",
+                      "color":"pink"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "I Think He Knows",
+                      "color":"pink"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "Miss Americana & the Heartbreak Prince",
+                      "color":"pink"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "Paper Rings",
+                      "color":"pink"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "Cornelia Street",
+                      "color":"pink"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "Death by a Thousand Cuts",
+                      "color":"pink"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "London Boy",
+                      "color":"pink"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "Soon You'll Get Better",
+                      "color":"pink"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "False God",
+                      "color":"pink"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "Afterglow",
+                      "color":"pink"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "It's Nice to Have a Friend",
+                      "color":"pink"
+                    }
+                  },
+                  {
+                    "data": {
+                      "id": "Daylight",
+                      "color":"pink"
+                    }
+                  }
+                ]
+              },
+              {
+            "data": {
+              "id": "Fearless",
+              "color":"yellow"
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "Fearless",
+                  "color":"yellow"
+                }
+              },
+              {
+                "data": {
+                  "id": "Love Story",
+                  "color":"yellow"
+                }
+              },
+              {
+                "data": {
+                  "id": "Fearless",
+                  "color":"yellow"
+                }
+              },
+              {
+                "data": {
+                  "id": "Love Story",
+                  "color":"yellow"
+                }
+              },
+              {
+                "data": {
+                  "id": "Fearless",
+                  "color":"yellow"
+                }
+              },
+              {
+                "data": {
+                  "id": "Love Story",
+                  "color":"yellow"
+                }
+              }
+            ]
+          },
+          {
+            "data": {
+              "id": "1989",
+              "color":"#755A72"
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "Welcome to New York",
+                  "color":"#755A72"
+                }
+              },
+              {
+                "data": {
+                  "id": "Blank Space",
+                  "color":"#755A72"
+                }
+              },
+              {
+                "data": {
+                  "id": "Style",
+                  "color":"#755A72"
+                }
+              },
+              {
+                "data": {
+                  "id": "Blank Space",
+                  "color":"#755A72"
+                }
+              },
+              {
+                "data": {
+                  "id": "Style",
+                  "color":"#755A72"
+                }
+              },
+              {
+                "data": {
+                  "id": "Out of the Woods",
+                  "color":"#755A72"
+                }
+              },
+              {
+                "data": {
+                  "id": "All You Had to Do Was Stay",
+                  "color":"#755A72"
+                }
+              },
+              {
+                "data": {
+                  "id": "Shake It Off",
+                  "color":"#755A72"
+                }
+              },
+              {
+                "data": {
+                  "id": "I Wish You Would",
+                  "color":"#755A72"
+                }
+              },
+              {
+                "data": {
+                  "id": "Bad Blood",
+                  "color":"#755A72"
+                }
+              },
+              {
+                "data": {
+                  "id": "Wildest Dreams",
+                  "color":"#755A72"
+                }
+              },
+              {
+                "data": {
+                  "id": "How You Get the Girl",
+                  "color":"#755A72"
+                }
+              },
+              {
+                "data": {
+                  "id": "This Love",
+                  "color":"#755A72"
+                }
+              },
+              {
+                "data": {
+                  "id": "I Know Places",
+                  "color":"#755A72"
+                }
+              },
+              {
+                "data": {
+                  "id": "Clean",
+                  "color":"#755A72"
+                }
+              },
+              {
+                "data": {
+                  "id": "Wonderland",
+                  "color":"#755A72"
+                }
+              },
+              {
+                "data": {
+                  "id": "You Are in Love",
+                  "color":"#755A72"
+                }
+              },
+              {
+                "data": {
+                  "id": "New Romantics",
+                  "color":"#755A72"
+                }
+              }
+            ]
+          },
+          {
+            "data": {
+              "id": "Reputation",
+              "color":"purple"
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "End Game"
+                }
+              },
+              {
+                "data": {
+                  "id": "Dress"
+                }
+              }
+            ]
+          },
+          {
+            "data": {
+              "id": "Speak Now",
+              "color":"orange"
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "Mine",
+                  "color":"orange"
+                }
+              },
+              {
+                "data": {
+                  "id": "Sparks Fly",
+                  "color":"orange"
+                }
+              },
+              {
+                "data": {
+                  "id": "Back to December",
+                  "color":"orange"
+                }
+              },
+              {
+                "data": {
+                  "id": "Speak Now",
+                  "color":"orange"
+                }
+              },
+              {
+                "data": {
+                  "id": "Dear John",
+                  "color":"orange"
+                }
+              },
+              {
+                "data": {
+                  "id": "Mean",
+                  "color":"orange"
+                }
+              },
+              {
+                "data": {
+                  "id": "The Story of Us",
+                  "color":"orange"
+                }
+              },
+              {
+                "data": {
+                  "id": "Never Grow Up",
+                  "color":"orange"
+                }
+              },
+              {
+                "data": {
+                  "id": "Enchanted",
+                  "color":"orange"
+                }
+              },
+              {
+                "data": {
+                  "id": "Better than Revenge",
+                  "color":"orange"
+                }
+              },
+              {
+                "data": {
+                  "id": "Innocent",
+                  "color":"orange"
+                }
+              },
+              {
+                "data": {
+                  "id": "Haunted",
+                  "color":"orange"
+                }
+              },
+              {
+                "data": {
+                  "id": "Last Kiss",
+                  "color":"orange"
+                }
+              },
+              {
+                "data": {
+                  "id": "Long Live",
+                  "color":"orange"
+                }
+              },
+              {
+                "data": {
+                  "id": "If This Was a Movie",
+                  "color":"orange"
+                }
+              },
+              {
+                "data": {
+                  "id": "Superman",
+                  "color":"orange"
+                }
+              }
+            ]
+          },
+          {
+            "data": {
+              "id": "Taylor Swift",
+              "color":"powderblue"
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "Tim McGraw",
+                  "color":"powderblue"
+                }
+              },
+              {
+                "data": {
+                  "id": "Picture to Burn",
+                  "color":"powderblue"
+                }
+              },
+              {
+                "data": {
+                  "id": "Teardrops On My Guitar",
+                  "color":"powderblue"
+                }
+              },
+              {
+                "data": {
+                  "id": "A Place in This World",
+                  "color":"powderblue"
+                }
+              },
+              {
+                "data": {
+                  "id": "Cold as You",
+                  "color":"powderblue"
+                }
+              },
+              {
+                "data": {
+                  "id": "The Outside",
+                  "color":"powderblue"
+                }
+              },
+              {
+                "data": {
+                  "id": "Tied Together with a Smile",
+                  "color":"powderblue"
+                }
+              },
+              {
+                "data": {
+                  "id": "Stay Beautiful",
+                  "color":"powderblue"
+                }
+              },
+              {
+                "data": {
+                  "id": "Should've Said No",
+                  "color":"powderblue"
+                }
+              },
+              {
+                "data": {
+                  "id": "Mary's Song (Oh My My My)",
+                  "color":"powderblue"
+                }
+              },
+              {
+                "data": {
+                  "id": "Our Song",
+                  "color":"powderblue"
+                }
+              },
+              {
+                "data": {
+                  "id": "I Heart ?",
+                  "color":"powderblue"
+                }
+              },
+              {
+                "data": {
+                  "id": "I'm Only Me When I'm with You",
+                  "color":"powderblue"
+                }
+              },
+              {
+                "data": {
+                  "id": "Invisible",
+                  "color":"powderblue"
+                }
+              },
+              {
+                "data": {
+                  "id": "A Perfectly Good Hear",
+                  "color":"powderblue"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "data": {
+          "id": "Singles"
+        },
+        "children": [
+          {
+            "data": {
+              "id": "50 Shades Of Gray"
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "IDWLF"
+                }
+              }
+            ]
+          },
+          {
+            "data": {
+              "id": "Cats"
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "IDWLF"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
