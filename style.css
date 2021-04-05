@@ -23,3 +23,26 @@ body {
     pointer-events: none;
     font-family: 'Playfair Display', serif;
   }
+
+  .link {
+    fill: none;
+    stroke: rgb(227, 207, 192);
+  }
+  .glow {
+
+    /* This trick adds a heavy white shadow around the text. */
+    text-shadow:
+     -1px -1px 3px white,
+     -1px  1px 3px white,
+      1px -1px 3px white,
+      1px  1px 3px white;
+
+  }
+  text {
+    font-family: "Open Sans", sans-serif;
+    pointer-events: none;
+  }
+
+  rect{
+    border: 5px rgb(0, 0, 0)
+  }

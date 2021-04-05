@@ -1,7 +1,8 @@
 
       {
         "data": {
-          "id": "Taylor Swift"
+          "id": "Taylor Swift",
+          "color":"gold"
         },
         "children": [
             {
@@ -494,12 +495,92 @@
             "children": [
               {
                 "data": {
-                  "id": "End Game"
+                  "id": "…Ready for It?",
+                  "color":"purple"
                 }
               },
               {
                 "data": {
-                  "id": "Dress"
+                  "id": "End Game (featuring Ed Sheeran and Future)",
+                  "color":"purple"
+                }
+              },
+              {
+                "data": {
+                  "id": "I Did Something Bad",
+                  "color":"purple"
+                }
+              },
+              {
+                "data": {
+                  "id": "Don't Blame Me",
+                  "color":"purple"
+                }
+              },
+              {
+                "data": {
+                  "id": "Delicate",
+                  "color":"purple"
+                }
+              },
+              {
+                "data": {
+                  "id": "Look What You Made Me Do",
+                  "color":"purple"
+                }
+              },
+              {
+                "data": {
+                  "id": "So It Goes…",
+                  "color":"purple"
+                }
+              },
+              {
+                "data": {
+                  "id": "Gorgeous",
+                  "color":"purple"
+                }
+              },
+              {
+                "data": {
+                  "id": "Getaway Car",
+                  "color":"purple"
+                }
+              },
+              {
+                "data": {
+                  "id": "King of My Heart",
+                  "color":"purple"
+                }
+              },
+              {
+                "data": {
+                  "id": "Dancing with Our Hands Tied",
+                  "color":"purple"
+                }
+              },
+              {
+                "data": {
+                  "id": "Dress",
+                  "color":"purple"
+                }
+              },
+              {
+                "data": {
+                  "id": "This Is Why We Can't Have Nice Things",
+                  "color":"purple"
+                }
+              },
+              {
+                "data": {
+                  "id": "Call It What You Want",
+                  "color":"purple"
+                }
+              },
+              {
+                "data": {
+                  "id": "New Year's Day",
+                  "color":"purple"
                 }
               }
             ]

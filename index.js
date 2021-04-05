@@ -1,50 +1,110 @@
 (function (d3) {
     'use strict';
   
-    const svg = d3.select('svg');
-    const width = document.body.clientWidth;
-    const height = document.body.clientHeight;
+    var width = document.body.clientWidth,
+    height = document.body.clientHeight,
+    svg = d3.select("svg")
+      .attr("width", width)
+      .attr("height", height)
+      .style("fill", "powderblue"),
+    g = svg.append("g").attr('transform', `translate(400,400)`),
+    cluster = d3.cluster()
+      .size([2 * Math.PI, width / 2 - 150]),
+    fontSize = d3.scaleSqrt()
+      .range([30, 7]);
+
+g.append("rect")
+  .attr("width", width)
+  .attr("height", height)
+  .style("fill", "none")
+  .style("pointer-events", "all")
+  .call(d3.zoom()
+      .scaleExtent([1 / 2, 4])
+      .on("zoom", zoomed));
+
+function zoomed() {
+  g.attr("transform", d3.event.transform);
+}
+
+d3.json("data.json")
+.then(data => {
+  var hierarchy = d3.hierarchy(data);
+  cluster(hierarchy);
+  var descendants = hierarchy.descendants();
+
+  fontSize.domain(d3.extent(descendants, function (d){return d.depth; }))
   
-    const margin = { top: 50, right: 400, bottom: 50, left: 250};
-    const innerWidth = width - margin.left - margin.right;
-    const innerHeight = height - margin.top - margin.bottom;
-  
-    const treeLayout = d3.tree().size([innerHeight, innerWidth]);
-  
-    const zoomG = svg
-        .attr('width', width)
-        .attr('height', height)
-      .append('g');
-  
-    const g = zoomG.append('g')
-        .attr('transform', `translate(${margin.left},${margin.top})`);
-  
-    svg.call(d3.zoom().on('zoom', () => {
-      zoomG.attr('transform', d3.event.transform);
-    }));
-  
-    d3.json('data.json')
-      .then(data => {
-        const root = d3.hierarchy(data);
-        const links = treeLayout(root).links();
-        const linkPathGenerator = d3.linkHorizontal()
-          .x(d => d.y)
-          .y(d => d.x);
-      
-        g.selectAll('path').data(links)
-          .enter().append('path')
-            .attr('d', linkPathGenerator);
-      
-        g.selectAll('text').data(root.descendants())
-          .enter().append('text')
-            .attr('x', d => d.y)
-            .attr('y', d => d.x)
-            .attr('dy', '0.32em')
-            .attr('text-anchor', d => d.children ? 'middle' : 'start')
-            .attr('font-size', d => 2.7 - d.depth + 'em')
-            .attr("fill", function(d){return d.data.data.color })
-            .text(d => d.data.data.id);
+  var link = g.selectAll(".link")
+      .data(descendants.slice(1))
+    .enter().append("path")
+      .attr("class", "link")
+      .attr("d", function(d) {
+        if(d.parent === descendants[0]){
+          return "M" + project(d.x, d.y)
+            + " " + project(d.parent.x, d.parent.y);
+        } else {
+          return "M" + project(d.x, d.y)
+            + "C" + project(d.x, (d.y + d.parent.y) / 2)
+            + " " + project(d.parent.x, (d.y + d.parent.y) / 2)
+            + " " + project(d.parent.x, d.parent.y);
+        }
       });
   
+  var node = g.selectAll(".node")
+      .data(descendants)
+    .enter().append("g")
+      .attr("transform", function(d) {
+        return "translate(" + project(d.x, d.y) + ")";
+      });
+
+  node.append("text")
+    .text(function (d){
+      console.log(d);
+      return d.data.data.id;
+    })
+    .attr("font-size", function (d){
+      return 2.5 - d.depth + "em";
+    })
+    .attr("transform", function(d) {
+      var theta = -d.x / Math.PI * 180 + 90;
+      if(d.x > Math.PI){
+        theta += 180;
+      }
+      if(d.depth !== 2 && Math.abs(theta) < 30){
+        theta = 0;
+      }
+      if(d.depth > 1){
+        return "rotate(" + theta + ")";
+      } else {
+        return "";
+      }
+    })
+    .attr("text-anchor", function (d){
+      if(d.depth === 2){
+        return (d.x > Math.PI) ? "end" : "start";
+      } else {
+        return "middle";
+      }
+    })
+    .attr("dx", function (d){
+      if(d.depth === 2){
+        return (d.x > Math.PI) ? "-2px" : "2px";
+      } else {
+        return "0px";
+      }
+    })
+    .classed("glow", function (d){
+      return d.depth !== 2;
+    })
+    .attr("alignment-baseline", "central")
+    .attr("fill", function(d){return d.data.data.color });
+});
+
+function project(theta, r){
+  return [
+    width / 2 + r * Math.sin(theta),
+    height / 2 + r * Math.cos(theta) + 4
+  ]
+}
   }(d3));
   
