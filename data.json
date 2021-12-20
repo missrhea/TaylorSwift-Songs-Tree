@@ -371,6 +371,194 @@
               }
             ]
           },
+		  {
+            "data": {
+              "id": "Red (Taylor’s Version)",
+              "color":"red"
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "State of Grace (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Red (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Treacherous (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "I Knew You Were Trouble (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "All Too Well (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "22 (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "I Almost Do (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "We Are Never Ever Getting Back Together (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Stay Stay Stay (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "The Last Time (Taylor’s Version) (featuring Gary Lightbody)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Holy Ground (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Sad Beautiful Tragic (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "The Lucky One (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Everything Has Changed (Taylor’s Version) (featuring Ed Sheeran)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Starlight (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Begin Again (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "The Moment I Knew (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Come Back… Be Here (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Girl at Home (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Here (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Ronan (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Better Man (Taylor’s Version) (From the Vault)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Nothing New Ft. Phoebe Bridges (Taylor’s Version) (From the Vault)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Babe (Taylor’s Version) (From the Vault)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Message in a Bottle (Taylor’s Version) (From the Vault)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "I Bet You Think About Me Ft. Chris Stapleton (Taylor’s Version) (From the Vault)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Forever Winter (Taylor’s Version) (From the Vault)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Run Ft. Ed Sheeran (Taylor’s Version) (From the Vault)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "The Very First Night (Taylor’s Version) (From the Vault)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "The Very First Night (Taylor’s Version) (From the Vault)",
+                  "color":"red"
+                }
+              }
+            ]
+          },
           {
             "data": {
               "id": "1989",
@@ -795,91 +983,97 @@
             "children": [
               {
                 "data": {
-                  "id": "Tim McGraw",
+                  "id": "State of Grace",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "Picture to Burn",
+                  "id": "Red",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "Teardrops On My Guitar",
+                  "id": "Treacherous",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "A Place in This World",
+                  "id": "I Knew You Were Trouble",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "Cold as You",
+                  "id": "All Too Well",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "The Outside",
+                  "id": "22",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "Tied Together with a Smile",
+                  "id": "I Almost Do",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "Stay Beautiful",
+                  "id": "We Are Never Ever Getting Back Together",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "Should've Said No",
+                  "id": "Stay Stay Stay",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "Mary's Song (Oh My My My)",
+                  "id": "The Last Time (feat. Gary Lightbody)",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "Our Song",
+                  "id": "Holy Ground",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "I Heart ?",
+                  "id": "Sad Beautiful Tragic",
                   "color":"red"
                 }
               },
-              {
+			  {
                 "data": {
-                  "id": "I'm Only Me When I'm with You",
+                  "id": "The Lucky One",
                   "color":"red"
                 }
               },
-              {
+			  {
                 "data": {
-                  "id": "Invisible",
+                  "id": "Everything Has Changed (feat. Ed Sheeran)",
                   "color":"red"
                 }
               },
+			  {
+                "data": {
+                  "id": "Starlight",
+                  "color":"red"
+                }
+              }
               {
                 "data": {
-                  "id": "A Perfectly Good Hear",
+                  "id": "Begin Again",
                   "color":"red"
                 }
               }
