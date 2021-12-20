@@ -8,107 +8,107 @@
             {
                 "data": {
                   "id": "Evermore",
-                  "color":"green"
+                  "color":"#7f6752"
                 },
                 "children": [
                   {
                     "data": {
                       "id": "Willow",
-                      "color":"green"
+                      "color":"#7f6752"
                     }
                   },
                   {
                     "data": {
                       "id": "Champagne Problems",
-                      "color":"green"
+                      "color":"#7f6752"
                     }
                   },{
                     "data": {
                       "id": "Gold Rush",
-                      "color":"green"
+                      "color":"#7f6752"
                     }
                   },
                   {
                     "data": {
                       "id": "'Tis the Damn Season",
-                      "color":"green"
+                      "color":"#7f6752"
                     }
                   },
                   {
                     "data": {
                       "id": "Tolerate It",
-                      "color":"green"
+                      "color":"#7f6752"
                     }
                   },
                   {
                     "data": {
                       "id": "No Body, No Crime (featuring Haim)",
-                      "color":"green"
+                      "color":"#7f6752"
                     }
                   },{
                     "data": {
                       "id": "Happiness",
-                      "color":"green"
+                      "color":"#7f6752"
                     }
                   },
                   {
                     "data": {
                       "id": "Dorothea",
-                      "color":"green"
+                      "color":"#7f6752"
                     }
                   },
                   {
                     "data": {
                       "id": "Coney Island (featuring the National)",
-                      "color":"green"
+                      "color":"#7f6752"
                     }
                   },
                   {
                     "data": {
                       "id": "Ivy",
-                      "color":"green"
+                      "color":"#7f6752"
                     }
                   },
                   {
                     "data": {
                       "id": "Cowboy like Me",
-                      "color":"green"
+                      "color":"#7f6752"
                     }
                   },
                   {
                     "data": {
                       "id": "Long Story Short",
-                      "color":"green"
+                      "color":"#7f6752"
                     }
                   },
                   {
                     "data": {
                       "id": "Marjorie",
-                      "color":"green"
+                      "color":"#7f6752"
                     }
                   },
                   {
                     "data": {
                       "id": "Closure",
-                      "color":"green"
+                      "color":"#7f6752"
                     }
                   },
                   {
                     "data": {
                       "id": "Evermore (featuring Bon Iver)",
-                      "color":"green"
+                      "color":"#7f6752"
                     }
                   },
                   {
                     "data": {
                       "id": "Right Where You Left Me",
-                      "color":"green"
+                      "color":"#7f6752"
                     }
                   },
                   {
                     "data": {
                       "id": "It's Time to Go",
-                      "color":"green"
+                      "color":"#7f6752"
                     }
                   }
                 ]
@@ -226,103 +226,103 @@
               {
                 "data": {
                   "id": "Lover",
-                  "color":"pink"
+                  "color":"#ae5f90"
                 },
                 "children": [
                   {
                     "data": {
                       "id": "I Forgot That You Existed",
-                      "color":"pink"
+                      "color":"#ae5f90"
                     }
                   },
                   {
                     "data": {
                       "id": "Cruel Summer",
-                      "color":"pink"
+                      "color":"#ae5f90"
                     }
                   },
                   {
                     "data": {
                       "id": "Lover",
-                      "color":"pink"
+                      "color":"#ae5f90"
                     }
                   },
                   {
                     "data": {
                       "id": "The Man",
-                      "color":"pink"
+                      "color":"#ae5f90"
                     }
                   },
                   {
                     "data": {
                       "id": "The Archer",
-                      "color":"pink"
+                      "color":"#ae5f90"
                     }
                   },
                   {
                     "data": {
                       "id": "I Think He Knows",
-                      "color":"pink"
+                      "color":"#ae5f90"
                     }
                   },
                   {
                     "data": {
                       "id": "Miss Americana & the Heartbreak Prince",
-                      "color":"pink"
+                      "color":"#ae5f90"
                     }
                   },
                   {
                     "data": {
                       "id": "Paper Rings",
-                      "color":"pink"
+                      "color":"#ae5f90"
                     }
                   },
                   {
                     "data": {
                       "id": "Cornelia Street",
-                      "color":"pink"
+                      "color":"#ae5f90"
                     }
                   },
                   {
                     "data": {
                       "id": "Death by a Thousand Cuts",
-                      "color":"pink"
+                      "color":"#ae5f90"
                     }
                   },
                   {
                     "data": {
                       "id": "London Boy",
-                      "color":"pink"
+                      "color":"#ae5f90"
                     }
                   },
                   {
                     "data": {
                       "id": "Soon You'll Get Better",
-                      "color":"pink"
+                      "color":"#ae5f90"
                     }
                   },
                   {
                     "data": {
                       "id": "False God",
-                      "color":"pink"
+                      "color":"#ae5f90"
                     }
                   },
                   {
                     "data": {
                       "id": "Afterglow",
-                      "color":"pink"
+                      "color":"#ae5f90"
                     }
                   },
                   {
                     "data": {
                       "id": "It's Nice to Have a Friend",
-                      "color":"pink"
+                      "color":"#ae5f90"
                     }
                   },
                   {
                     "data": {
                       "id": "Daylight",
-                      "color":"pink"
+                      "color":"#ae5f90"
                     }
                   }
                 ]
@@ -330,43 +330,274 @@
               {
             "data": {
               "id": "Fearless",
-              "color":"gold"
+              "color":"#b38733"
             },
             "children": [
               {
                 "data": {
                   "id": "Fearless",
-                  "color":"gold"
+                  "color":"#b38733"
                 }
               },
               {
                 "data": {
-                  "id": "Love Story",
-                  "color":"gold"
+                  "id": "Fifteen",
+                  "color":"#b38733"
                 }
               },
               {
                 "data": {
-                  "id": "Fearless",
-                  "color":"gold"
+                  "id": " Love Story",
+                  "color":"#b38733"
                 }
               },
               {
                 "data": {
-                  "id": "Love Story",
-                  "color":"gold"
+                  "id": "Hey Stephen",
+                  "color":"#b38733"
                 }
               },
               {
                 "data": {
-                  "id": "Fearless",
-                  "color":"gold"
+                  "id": "White Horse",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "You Belong with Me",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "Breathe",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "Tell Me Why",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "You’re Not Sorry",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "The Way I Loved You",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "Forever & Always",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "The Best Day",
+                  "color":"#b38733"
                 }
               },
               {
                 "data": {
-                  "id": "Love Story",
-                  "color":"gold"
+                  "id": "Change",
+                  "color":"#b38733"
+                }
+              }
+            ]
+          },
+		  {
+            "data": {
+              "id": "Red (Taylor’s Version)",
+              "color":"red"
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "State of Grace (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Red (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Treacherous (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "I Knew You Were Trouble (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "All Too Well (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "22 (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "I Almost Do (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "We Are Never Ever Getting Back Together (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Stay Stay Stay (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "The Last Time (Taylor’s Version) (featuring Gary Lightbody)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Holy Ground (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Sad Beautiful Tragic (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "The Lucky One (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Everything Has Changed (Taylor’s Version) (featuring Ed Sheeran)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Starlight (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Begin Again (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "The Moment I Knew (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Come Back… Be Here (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Girl at Home (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Here (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Ronan (Taylor’s Version)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Better Man (Taylor’s Version) (From the Vault)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Nothing New Ft. Phoebe Bridges (Taylor’s Version) (From the Vault)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Babe (Taylor’s Version) (From the Vault)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Message in a Bottle (Taylor’s Version) (From the Vault)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "I Bet You Think About Me Ft. Chris Stapleton (Taylor’s Version) (From the Vault)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Forever Winter (Taylor’s Version) (From the Vault)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "Run Ft. Ed Sheeran (Taylor’s Version) (From the Vault)",
+                  "color":"red"
+                }
+              },
+              {
+                "data": {
+                  "id": "The Very First Night (Taylor’s Version) (From the Vault)",
+                  "color":"red"
                 }
               }
             ]
@@ -490,97 +721,97 @@
           {
             "data": {
               "id": "Reputation",
-              "color":"purple"
+              "color":"#4c4c4c"
             },
             "children": [
               {
                 "data": {
                   "id": "…Ready for It?",
-                  "color":"purple"
+                  "color":"#4c4c4c"
                 }
               },
               {
                 "data": {
                   "id": "End Game (featuring Ed Sheeran and Future)",
-                  "color":"purple"
+                  "color":"#4c4c4c"
                 }
               },
               {
                 "data": {
                   "id": "I Did Something Bad",
-                  "color":"purple"
+                  "color":"#4c4c4c"
                 }
               },
               {
                 "data": {
                   "id": "Don't Blame Me",
-                  "color":"purple"
+                  "color":"#4c4c4c"
                 }
               },
               {
                 "data": {
                   "id": "Delicate",
-                  "color":"purple"
+                  "color":"#4c4c4c"
                 }
               },
               {
                 "data": {
                   "id": "Look What You Made Me Do",
-                  "color":"purple"
+                  "color":"#4c4c4c"
                 }
               },
               {
                 "data": {
                   "id": "So It Goes…",
-                  "color":"purple"
+                  "color":"#4c4c4c"
                 }
               },
               {
                 "data": {
                   "id": "Gorgeous",
-                  "color":"purple"
+                  "color":"#4c4c4c"
                 }
               },
               {
                 "data": {
                   "id": "Getaway Car",
-                  "color":"purple"
+                  "color":"#4c4c4c"
                 }
               },
               {
                 "data": {
                   "id": "King of My Heart",
-                  "color":"purple"
+                  "color":"#4c4c4c"
                 }
               },
               {
                 "data": {
                   "id": "Dancing with Our Hands Tied",
-                  "color":"purple"
+                  "color":"#4c4c4c"
                 }
               },
               {
                 "data": {
                   "id": "Dress",
-                  "color":"purple"
+                  "color":"#4c4c4c"
                 }
               },
               {
                 "data": {
                   "id": "This Is Why We Can't Have Nice Things",
-                  "color":"purple"
+                  "color":"#4c4c4c"
                 }
               },
               {
                 "data": {
                   "id": "Call It What You Want",
-                  "color":"purple"
+                  "color":"#4c4c4c"
                 }
               },
               {
                 "data": {
                   "id": "New Year's Day",
-                  "color":"purple"
+                  "color":"#4c4c4c"
                 }
               }
             ]
@@ -588,103 +819,281 @@
           {
             "data": {
               "id": "Speak Now",
-              "color":"orange"
+              "color":"#942f72"
             },
             "children": [
               {
                 "data": {
                   "id": "Mine",
-                  "color":"orange"
+                  "color":"#942f72"
                 }
               },
               {
                 "data": {
                   "id": "Sparks Fly",
-                  "color":"orange"
+                  "color":"#942f72"
                 }
               },
               {
                 "data": {
                   "id": "Back to December",
-                  "color":"orange"
+                  "color":"#942f72"
                 }
               },
               {
                 "data": {
                   "id": "Speak Now",
-                  "color":"orange"
+                  "color":"#942f72"
                 }
               },
               {
                 "data": {
                   "id": "Dear John",
-                  "color":"orange"
+                  "color":"#942f72"
                 }
               },
               {
                 "data": {
                   "id": "Mean",
-                  "color":"orange"
+                  "color":"#942f72"
                 }
               },
               {
                 "data": {
                   "id": "The Story of Us",
-                  "color":"orange"
+                  "color":"#942f72"
                 }
               },
               {
                 "data": {
                   "id": "Never Grow Up",
-                  "color":"orange"
+                  "color":"#942f72"
                 }
               },
               {
                 "data": {
                   "id": "Enchanted",
-                  "color":"orange"
+                  "color":"#942f72"
                 }
               },
               {
                 "data": {
                   "id": "Better than Revenge",
-                  "color":"orange"
+                  "color":"#942f72"
                 }
               },
               {
                 "data": {
                   "id": "Innocent",
-                  "color":"orange"
+                  "color":"#942f72"
                 }
               },
               {
                 "data": {
                   "id": "Haunted",
-                  "color":"orange"
+                  "color":"#942f72"
                 }
               },
               {
                 "data": {
                   "id": "Last Kiss",
-                  "color":"orange"
+                  "color":"#942f72"
                 }
               },
               {
                 "data": {
                   "id": "Long Live",
-                  "color":"orange"
+                  "color":"#942f72"
                 }
               },
               {
                 "data": {
                   "id": "If This Was a Movie",
-                  "color":"orange"
+                  "color":"#942f72"
                 }
               },
               {
                 "data": {
                   "id": "Superman",
-                  "color":"orange"
+                  "color":"#942f72"
+                }
+              }
+            ]
+          },
+           {
+            "data": {
+              "id": "Fearless (Taylor’s Version)",
+              "color":"#b38733"
+            },
+            "children": [
+              {
+                "data": {
+                  "id": "Fearless (Taylor’s Version)",
+                  "color":"#b38733"
+                }
+              },
+              {
+                "data": {
+                  "id": "Fifteen (Taylor’s Version)",
+                  "color":"#b38733"
+                }
+              },
+              {
+                "data": {
+                  "id": "Love Story (Taylor’s Version)",
+                  "color":"#b38733"
+                }
+              },
+              {
+                "data": {
+                  "id": "Hey Stephen (Taylor’s Version)",
+                  "color":"#b38733"
+                }
+              },
+              {
+                "data": {
+                  "id": "White Horse (Taylor’s Version)",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "You Belong with Me (Taylor’s Version)",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "Breathe (Ft. Colbie Caillat) (Taylor’s Version)",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "Tell Me Why (Taylor’s Version)",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "You’re Not Sorry (Taylor’s Version)",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "The Way I Loved You (Taylor’s Version)",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "Forever & Always (Taylor’s Version)",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "The Best Day (Taylor’s Version)",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "Change (Taylor’s Version)",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "Jump Then Fall (Taylor’s Version)",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "Untouchable (Taylor’s Version)",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "Forever & Always (Piano Version) (Taylor’s Version)",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "Come In With the Rain (Taylor’s Version)",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "SuperStar (Taylor’s Version)",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "The Other Side of the Door (Taylor’s Version)",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "Today Was a Fairytale (Taylor’s Version)",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "You All Over Me (From The Vault) Ft. Maren Morris",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "Mr. Perfectly Fine (From The Vault)",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "We Were Happy (From The Vault)",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "That’s When (From The Vault) Ft. Keith Urban",
+                  "color":"#b38733"
+                }
+              }
+			  ,
+              {
+                "data": {
+                  "id": "Don’t You (From The Vault)",
+                  "color":"#b38733"
                 }
               }
             ]
@@ -795,91 +1204,97 @@
             "children": [
               {
                 "data": {
-                  "id": "Tim McGraw",
+                  "id": "State of Grace",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "Picture to Burn",
+                  "id": "Red",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "Teardrops On My Guitar",
+                  "id": "Treacherous",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "A Place in This World",
+                  "id": "I Knew You Were Trouble",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "Cold as You",
+                  "id": "All Too Well",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "The Outside",
+                  "id": "22",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "Tied Together with a Smile",
+                  "id": "I Almost Do",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "Stay Beautiful",
+                  "id": "We Are Never Ever Getting Back Together",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "Should've Said No",
+                  "id": "Stay Stay Stay",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "Mary's Song (Oh My My My)",
+                  "id": "The Last Time (feat. Gary Lightbody)",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "Our Song",
+                  "id": "Holy Ground",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "I Heart ?",
+                  "id": "Sad Beautiful Tragic",
+                  "color":"red"
+                }
+              },
+			  {
+                "data": {
+                  "id": "The Lucky One",
+                  "color":"red"
+                }
+              },
+			  {
+                "data": {
+                  "id": "Everything Has Changed (feat. Ed Sheeran)",
+                  "color":"red"
+                }
+              },
+			  {
+                "data": {
+                  "id": "Starlight",
                   "color":"red"
                 }
               },
               {
                 "data": {
-                  "id": "I'm Only Me When I'm with You",
-                  "color":"red"
-                }
-              },
-              {
-                "data": {
-                  "id": "Invisible",
-                  "color":"red"
-                }
-              },
-              {
-                "data": {
-                  "id": "A Perfectly Good Hear",
+                  "id": "Begin Again",
                   "color":"red"
                 }
               }
