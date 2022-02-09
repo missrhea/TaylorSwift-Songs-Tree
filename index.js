@@ -1,15 +1,14 @@
 (function (d3) {
     'use strict';
   
-    var width = document.body.clientWidth,
+    var width = document.body.clientWidth-(document.body.clientWidth/3),
     height = document.body.clientHeight,
     svg = d3.select("svg")
       .attr("width", width)
-      .attr("height", height)
-      .style("fill", "powderblue"),
-    g = svg.append("g").attr('transform', `translate(400,400)`),
+      .attr("height", height),
+    g = svg.append("g").attr('transform', `translate(0,0)`),
     cluster = d3.cluster()
-      .size([2 * Math.PI, width / 2 - 150]),
+      .size([2 * Math.PI, width/2 - 150]),
     fontSize = d3.scaleSqrt()
       .range([30, 7]);
 
@@ -63,7 +62,10 @@ d3.json("data.json")
       return d.data.data.id;
     })
     .attr("font-size", function (d){
-      return 2.5 - d.depth + "em";
+      if (d.depth != 0){
+        return 1 / (d.depth) + "em";
+      }
+      return 2 + "em";
     })
     .attr("transform", function(d) {
       var theta = -d.x / Math.PI * 180 + 90;
