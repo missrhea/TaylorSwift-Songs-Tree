@@ -1,11 +1,14 @@
 body {
     position: fixed;
+    text-align: center;
     left: 0;
     right: 0;
     top: 0;
     bottom: 0;
-    margin: 0;
     overflow: hidden;
+    background: beige;
+    width: 100%;
+    
   }
   
   path {
@@ -17,6 +20,8 @@ body {
     fill: none;
     stroke:silver;
   }
+  
+
   .glow {
 
     /* This trick adds a heavy white shadow around the text. */
@@ -24,7 +29,7 @@ body {
      -1px -1px 3px white,
      -1px  1px 3px white,
       1px -1px 3px white,
-      1px  1px 3px white;
+      -1px  1px 3px black;
 
   }
   text {
@@ -32,7 +37,10 @@ body {
     pointer-events: none;
   }
 
-  rect{
+  /* rect{
     stroke:blanchedalmond;
     stroke-width: 10px;
-  }
+  } */
+
+
+

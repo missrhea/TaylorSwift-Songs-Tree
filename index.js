@@ -6,9 +6,9 @@
     svg = d3.select("svg")
       .attr("width", width)
       .attr("height", height),
-    g = svg.append("g").attr('transform', `translate(0,0)`),
+    g = svg.append("g").attr('transform', `translate(0,0`),
     cluster = d3.cluster()
-      .size([2 * Math.PI, width/2 - 150]),
+      .size([2 * Math.PI, width/2 - 245]),
     fontSize = d3.scaleSqrt()
       .range([30, 7]);
 
@@ -58,11 +58,10 @@ d3.json("data.json")
 
   node.append("text")
     .text(function (d){
-      console.log(d);
       return d.data.data.id;
     })
     .attr("font-size", function (d){
-      if (d.depth != 0){
+      if (d.depth !=0){
         return 1 / (d.depth) + "em";
       }
       return 2 + "em";
@@ -105,7 +104,7 @@ d3.json("data.json")
 function project(theta, r){
   return [
     width / 2 + r * Math.sin(theta),
-    height / 2 + r * Math.cos(theta) + 4
+    height / 2 + r * Math.cos(theta) + 20
   ]
 }
   }(d3));

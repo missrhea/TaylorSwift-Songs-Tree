@@ -42,7 +42,7 @@
             .attr('y', d => d.x)
             .attr('dy', '0.32em')
             .attr('text-anchor', d => d.children ? 'middle' : 'start')
-            .attr('font-size', d => 2.45 - d.depth + 'em')
+            .attr('font-size', d => 2.5 - d.depth + 'em')
             .attr("fill", function(d){return d.data.data.color })
             .text(d => d.data.data.id);
       });
